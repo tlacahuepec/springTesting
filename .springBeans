@@ -9,6 +9,27 @@
 	<configs>
 		<config>src/main/resources/META-INF/spring/app-context-AutowiringModes.xml</config>
 		<config>src/main/resources/META-INF/spring/app-context-beanInheritance.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-Initialization.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-InitializingBeanInterface.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-postConstructAnnotation.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-destroyBean.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-disposableBeanInterface.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-RegisterShutdownHook.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-BeanNameAware.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-ShutdownHookBean.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-DisposableBeanJSR-250Annotation.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-FactoryBeans.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-MessageDigestFactory.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-PropertyEditors.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-CustomEditorConfigurer.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-MessageSource.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-PublishingEvent.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-Message.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-AppConfig.xml</config>
+		<config>src/main/resources/META-INF/spring/kindergarten-config.xml</config>
+		<config>src/main/resources/META-INF/spring/highschool-config.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-PropPlaceholderConfig.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-JSR-330.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
